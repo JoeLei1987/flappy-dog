@@ -1,0 +1,9 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#board {
+    background-image: url("/Users/joelei/Desktop/game 02/background_02.png");
+    cursor: default;
+}  
